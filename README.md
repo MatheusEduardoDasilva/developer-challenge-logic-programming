@@ -18,15 +18,16 @@ Para avaliar, usaremos a hora em que registrou o **fork** deste repositório at�
 
 #### 🤓 - Ok, me fale mais sobre o desafio...
 
-1. Fork este repositório e faça o desafio em um branch com o seu nome (exemplo: nome-sobrenome)
-2. No seu projeto, crie um diretório chamado src. Todos os arquivos que você criar devem estar dentro desta pasta
-3. Resolva o problema abaixo
-4. Inclua no todo deste arquivo (README.md):
+1. Crie um repositório novo aqui no GitHub
+2. Crie uma branch com o seu nome (exemplo: nome-sobrenome)
+3. Crie um arquivo README.md na raiz do projeto com o seguinte:
    a) Seu nome completo;
    b) Linguagem de programação escolhida;
    c) Descreva qualquer dificuldade que tenha encontrado no desafio;
-   d) Defina uma nota de 0 à 10 para o grau de dificuldade que você percebeu na tarefa.
-5. Assim que concluir o seu desafio, abra um **pull request** com suas alterações
+   d) Defina uma nota de 0 à 10 para o grau de dificuldade que você percebeu na tarefa;
+   e) Qualquer outra info que você julgar importante compartilhar.
+4. Assim que concluir o seu desafio, faça **commit** e **push** no projeto
+5. Envie o link do seu repositório para quem o solicitou
 
 #### Com foco e atenção, resolva o seguinte problema:
 
@@ -38,17 +39,17 @@ Para avaliar, usaremos a hora em que registrou o **fork** deste repositório at�
 
 #### 🤓 - Qual linguagem de programação devo usar?
 
-Utilize uma das seguintes linguagens: Go, Lua, C/C++, Python, Java ou Javascript
+Utilize uma das seguintes linguagens: Go, Lua, C, Python, Java ou Javascript
 
 
 #### 🤓 - O que será avaliado no teste?
 
-- Resolução do problema.
-- Resolução do problema.
-- Resolução do problema.
-- Clareza, na resolução do problema.
-- Bom uso da linguagem escolhida (quanto menor o código melhor).
+- Resolução do problema
+- Resolução do problema
+- Resolução do problema
+- Clareza, na resolução do problema
+- Bom uso da linguagem escolhida (quanto menor o código melhor)
 
 
-
+🖖
 
